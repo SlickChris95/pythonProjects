@@ -51,7 +51,7 @@ grid = [['.', '.', '.', '.', '.', '.'],
 ['.', '.', '.', '.', '.', '.']]
 
 
-def multiListCount(grid):
+def drawGrid(grid):
     str = ''
     for i in range(len(grid)):
         str +='\n'
