@@ -60,7 +60,7 @@ def drawGrid(grid):
                 break;
             str += grid[j][i]
     return str
-print(multiListCount(grid))
+print(drawGrid(grid))
 
 
 '''
